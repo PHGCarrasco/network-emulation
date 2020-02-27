@@ -10,7 +10,7 @@ Using an basic serial comunication python code, i can trade messages between tho
 
 
 ## Requirements
-This project is built to run in any distro Linux 
+This project is built to run on any distro Linux 
 
 [tty0tty Source code](https://github.com/freemed/tty0tty)
 
@@ -30,8 +30,9 @@ You should see wich serail ports are open
  
  In different terminal sections, compile *first* rx.py and then tx.py
  
- > python rx.py
- 
- > python tx.py
+ '''
+ python rx.py
+ python tx.py
+ '''
  
  ![network](https://i.imgur.com/c42dK8m.png)
