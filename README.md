@@ -10,11 +10,18 @@ Using an basic serial comunication python code, i can trade messages between tho
 
 ## Requirements
 This project is built to run in any common distro Linux 
-tty0tty C Source code, i used this: https://github.com/freemed/tty0tty
+
+[tty0tty Source code](https://github.com/freemed/tty0tty)
+
 Pyserial library isntalled
 
 ## How to run
 Build the kernel module from provided source, detailed process on tty0tty README.md
+
 Run tty0tty exec 
   > ./tty0tty/pts/tty0tty
+  
+You should see wich serail ports are open now
+  
+  
   
