@@ -31,6 +31,7 @@ You should see wich serail ports are open
  In different terminal sections, compile *first* rx.py and then tx.py
  
  > python rx.py
+ 
  > python tx.py
  
  ![network](https://i.imgur.com/c42dK8m.png)
