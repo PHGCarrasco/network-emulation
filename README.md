@@ -28,6 +28,9 @@ You should see wich serail ports are open
   
  You need to modify both codes with each port
  
- In different terminal sections, compile *first* rx.py and then tx.py.
+ In different terminal sections, compile *first* rx.py and then tx.py
+ 
+ > python rx.py
+ > python tx.py
  
  ![network](https://i.imgur.com/c42dK8m.png)
