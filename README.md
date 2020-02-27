@@ -24,7 +24,7 @@ Run tty0tty exec
   
 You should see wich serail ports are open
 
-![Serial Ports](https://imgur.com/a/kxfehRm)
+![Serial Ports](https://i.imgur.com/2b3o85T.png)
   
   
   
