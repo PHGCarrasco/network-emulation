@@ -1,4 +1,5 @@
 # network-emulation
+
 ## Description
 A simple and basic aplication that simulate a network on Linux using python
 
@@ -16,12 +17,14 @@ This project is built to run in any common distro Linux
 Pyserial library isntalled
 
 ## How to run
-Build the kernel module from provided source, detailed process on tty0tty README.md
+Build the kernel module from provided source, detailed process on tty0tty [README.md](https://github.com/freemed/tty0tty/blob/master/README.md)
 
 Run tty0tty exec 
   > ./tty0tty/pts/tty0tty
   
-You should see wich serail ports are open now
+You should see wich serail ports are open
+
+![Serial Ports](https://imgur.com/a/kxfehRm)
   
   
   
