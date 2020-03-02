@@ -1,7 +1,8 @@
 # network-emulation
 
 ## Description
-A simple and basic aplication that simulate a network on Linux using python
+A simple and basic aplication that simulate a network on Linux using python.
+Originally this project has the objective to increase my personal knowledge in computer networks.
 
 ## How it Work
 Using an tty no modem C source code, establish a conection with two virtual devices on Linux repositories.
@@ -10,7 +11,7 @@ Using an basic serial comunication python code, i can trade messages between tho
 
 
 ## Requirements
-This project is built to run on any distro Linux 
+This project is built to run on any distro Linux. 
 
 [tty0tty Source code](https://github.com/freemed/tty0tty)
 
